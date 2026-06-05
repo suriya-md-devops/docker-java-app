@@ -74,7 +74,7 @@ The final application image was created successfully using a Distroless runtime 
 
 ---
 
-## What I Learned
+## Key Learnings
 
 * Creating Docker images
 * Running Docker containers
@@ -83,12 +83,6 @@ The final application image was created successfully using a Distroless runtime 
 * Basic Docker commands
 * Git and GitHub workflow
 
-## Future Improvements
-
-* GitHub Actions CI/CD Integration
-* Docker Hub Image Publishing
-* AWS EC2 Deployment
-* Jenkins Pipeline Automation
 
 ## Author
 
